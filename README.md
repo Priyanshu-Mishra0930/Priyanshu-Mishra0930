@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Priyanshu 👋
 
-<!--
-**Priyanshu-Mishra0930/Priyanshu-Mishra0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student @ Lovely Professional University
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, DSA and Open Source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- C
+- C++
+- Python
+- SQL
+- Flask
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Currently
+
+- Solving LeetCode
+- Building Projects
+- Learning System Design
+![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Mishra0930&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Mishra0930&layout=compact&theme=tokyonight)
+## Connect
+
+
+LinkedIn
+LeetCode
+Portfolio (Future)
