@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Priyanshu
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Problem+Solver;Software+Developer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Problem+Solver;Software+Developer;Always+Learning+Something+New" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-Mishra0930&label=Profile+Views&color=0e75b6&style=flat" />
