@@ -26,6 +26,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Mishra0930&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Mishra0930&layout=compact&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ee4skYsSk0?theme=dark&font=Karma&ext=contest)
 ## Connect
 
 
