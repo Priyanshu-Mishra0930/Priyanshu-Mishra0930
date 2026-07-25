@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi, I'm Priyanshu
 
@@ -111,5 +111,127 @@ public:
 ## 💭 Quote
 
 > **"Small improvements every day become remarkable achievements."**
+
+</div> -->
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Priyanshu
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Data+Structures+%26+Algorithms;Software+Developer;Building+Projects+One+Commit+At+A+Time" />
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Mishra0930&label=Profile+Views&color=0891b2&style=for-the-badge" />
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```bash
+> whoami
+
+Priyanshu
+
+> education
+
+B.Tech CSE @ Lovely Professional University
+
+> currently_learning
+
+• Data Structures & Algorithms
+• System Design
+• Backend Development
+
+> current_goal
+
+Become a Software Engineer.
+```
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flask,postgres,git,github,vscode,linux&perline=6"/>
+
+</div>
+
+---
+
+## 📊 Coding Journey
+
+```text
+🧠 Problem Solving      ████████████████
+⚙️ Projects             ██████████████
+📚 Learning             ███████████████
+☕ Coffee               █████████████████████
+😴 Sleep                ██
+```
+
+---
+
+## 🏆 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/ee4skYsSk0?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
+</div>
+
+---
+
+## 🔥 Current Mission
+
+```cpp
+while(true){
+
+    Learn();
+
+    Build();
+
+    Debug();
+
+    Improve();
+
+    Repeat();
+}
+```
+
+---
+
+## 📂 Featured Projects
+
+🚗 Smart Parking System
+
+🏢 Chetna NGO Internship Management System
+
+📈 DailyBitz Productivity Tracker
+
+🧮 MatrixForge
+
+---
+
+## 🌍 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/priyanshu-ranjan-72013937b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/ee4skYsSk0/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+> *"The best code I write tomorrow will always be better than the best code I write today."*
 
 </div>
