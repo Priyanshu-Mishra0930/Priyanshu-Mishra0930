@@ -24,7 +24,7 @@
 - Building Projects
 - Learning System Design
 ## Connect
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshu-Mishra0930&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 LinkedIn
 LeetCode:-
