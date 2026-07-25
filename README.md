@@ -1,24 +1,43 @@
-<!-- <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Priyanshu
+# 👋 Hey, I'm Priyanshu
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Problem+Solver;Software+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Data+Structures+%26+Algorithms+Enthusiast;Software+Developer;Building+Real-World+Projects;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Mishra0930&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Mishra0930&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2"/>
+
+<br><br>
+
+<a href="https://linkedin.com/in/priyanshu-ranjan-72013937b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/ee4skYsSk0/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:priyanshumishra1530@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```cpp
 class Priyanshu {
+
 public:
 
-    string college = "Lovely Professional University";
+    string role =
+        "Computer Science Engineering Student";
+
+    string university =
+        "Lovely Professional University";
 
     vector<string> languages = {
         "C",
@@ -40,148 +59,56 @@ public:
         "JavaScript"
     };
 
-    string currentFocus =
-        "Data Structures • Algorithms • System Design";
+    vector<string> interests = {
+        "Data Structures",
+        "Algorithms",
+        "Software Development",
+        "Open Source"
+    };
 
-    string life() {
-        return "Eat → Code → Learn → Repeat";
-    }
+    string currentFocus =
+        "System Design";
+
+    bool alwaysLearning = true;
+
 };
 ```
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flask,postgres,git,github,vscode" />
+### Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js"/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=flask,postgres"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</div>
 
 ---
 
-# 📈 Coding Journey
+# 💻 Current Focus
 
-- 🚀 Solving LeetCode consistently
-- 📚 Learning Data Structures & Algorithms
-- ⚙️ Building real-world software projects
-- 🌱 Exploring System Design
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Mishra0930&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</p>
+```text
+🧠 Data Structures & Algorithms    ███████████████░
+⚙️ Software Development            █████████████░░░
+🚀 System Design                   ███████░░░░░░░░
+🌱 Open Source                     ███░░░░░░░░░░░░
+☕ Coffee                          ███████████████
+```
 
 ---
 
 # 🏆 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/ee4skYsSk0?theme=dark&font=JetBrains+Mono&ext=contest" />
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/priyanshu-ranjan-72013937b">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://leetcode.com/u/ee4skYsSk0/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 💭 Quote
-
-> **"Small improvements every day become remarkable achievements."**
-
-</div> -->
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Priyanshu
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Data+Structures+%26+Algorithms;Software+Developer;Building+Projects+One+Commit+At+A+Time" />
-
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-Mishra0930&label=Profile+Views&color=0891b2&style=for-the-badge" />
-
-</div>
-
----
-
-## ⚡ About Me
-
-```bash
-> whoami
-
-Priyanshu
-
-> education
-
-B.Tech CSE @ Lovely Professional University
-
-> currently_learning
-
-• Data Structures & Algorithms
-• System Design
-• Backend Development
-
-> current_goal
-
-Become a Software Engineer.
-```
-
----
-
-## 💻 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flask,postgres,git,github,vscode,linux&perline=6"/>
-
-</div>
-
----
-
-## 📊 Coding Journey
-
-```text
-🧠 Problem Solving      ████████████████
-⚙️ Projects             ██████████████
-📚 Learning             ███████████████
-☕ Coffee               █████████████████████
-😴 Sleep                ██
-```
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Mishra0930&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</p>
-
----
----
-
-## 🏆 LeetCode
 
 <div align="center">
 
@@ -191,10 +118,66 @@ Become a Software Engineer.
 
 ---
 
-## 🔥 Current Mission
+# 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Mishra0930&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+[![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Mishra0930&theme=tokyo-night&hide_border=true&radius=16)](https://github.com/Priyanshu-Mishra0930)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 📖 Description | 🛠 Tech Stack |
+| :--- | :--- | :--- |
+| **Smart Parking System** | IoT-based intelligent parking management system with real-time monitoring | Flask • PostgreSQL • Arduino • ESP8266 |
+| **Chetna NGO IMS** | Internship & certificate management system with authentication | Flask • JWT • PostgreSQL |
+| **DailyBitz** | Productivity tracker for daily goals and habits | HTML • CSS • JavaScript • Python • Flask |
+| **MatrixForge** | Python package for matrix operations | Python |
+
+---
+
+# 🖥 Developer Console
+
+```bash
+> whoami
+
+Priyanshu
+
+> education
+
+B.Tech Computer Science Engineering
+Lovely Professional University
+
+> currently
+
+Building Projects
+Solving LeetCode
+Learning System Design
+
+> status
+
+Coding...
+```
+
+---
+
+<div align="center">
 
 ```cpp
-while(true){
+while (alive) {
 
     Learn();
 
@@ -202,46 +185,13 @@ while(true){
 
     Debug();
 
-    Improve();
-
     Repeat();
+
 }
 ```
 
----
+⭐ Thanks for visiting my profile ⭐
 
-## 📂 Featured Projects
-
-🚗 Smart Parking System
-
-🏢 Chetna NGO Internship Management System
-
-📈 DailyBitz Productivity Tracker
-
-🧮 MatrixForge
-
----
-
-## 🌍 Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/priyanshu-ranjan-72013937b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/ee4skYsSk0/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Quote
-
-> *"The best code I write tomorrow will always be better than the best code I write today."*
+### 💭 *"Consistency compounds. Every commit, every solved problem, every project matters."*
 
 </div>
