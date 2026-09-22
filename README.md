@@ -125,7 +125,7 @@ public:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/ee4skYsSk0?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/0x_deadcode?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </div>
 
